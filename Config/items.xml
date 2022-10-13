@@ -1,0 +1,14 @@
+<config>
+物品定制
+<append xpath="/items">
+<item name="秒杀石斧">
+<property name="Extends" value="meleeToolRepairT0StoneAxe"/>
+<property name="CustomIcon" value="meleeToolRepairT0StoneAxe"/>
+<property name="DescriptionKey" value="秒杀石斧"/>
+<property name="Stacknumber" value="10"/>
+<property name="EconomicValue" value="500"/>
+<property name="Tags" value="axe,melee,light,tool,longShaft,tazas,repairTool,miningTool,attStrength,perkMiner69r,perkMotherLode,perkTheHuntsman,canHaveCosmetic"/>
+</item>
+
+</append>
+</config>
